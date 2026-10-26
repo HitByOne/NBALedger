@@ -1,1 +1,5 @@
 Model,Day,Date,Player,Slot,Position,Team,Opponent,Stat,Floor,OwnRate,DefRate,Score,Projection,ProjNoMatchup,Lo,Hi,Line,Actual,Hit
+best_picks,6,2026-10-25,Tyrese Maxey,G1,G,PHI,DET,Assists,2,1.0,0.75,0.875,4.9,5.0,4,6,5.0,4.0,1
+own_only,6,2026-10-25,Tyrese Maxey,G1,G,PHI,DET,Points,25,1.0,,1.0,26.6,28.7,21,32,26.5,29.0,1
+best_picks,6,2026-10-25,Jaylen Brown,G2,G,PHI,DET,Assists,2,1.0,0.75,0.875,4.9,5.0,4,6,5.0,4.0,1
+own_only,6,2026-10-25,Jaylen Brown,G2,G,PHI,DET,Points,18,1.0,,1.0,20.7,22.3,17,25,20.5,16.0,0
