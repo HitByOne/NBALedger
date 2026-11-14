@@ -2,6 +2,7 @@ Team,Player,Position,Status,Injury,Return,Updated
 ATL,Asa Newell,F,Out,Left Toe,2026-11-20,2026-11-12
 ATL,Henri Veesaar,C,Out,Right Knee,2027-07-01,2026-09-21
 ATL,Keshon Gilbert,G,Out,Left Knee Inflammation,2026-11-20,2026-11-12
+ATL,Kingston Flemings,G,Day-To-Day,Back,2026-11-15,2026-11-14
 ATL,Mouhamed Gueye,F,Out,Left Foot Fracture,2026-12-12,2026-11-13
 BKN,Mikel Brown Jr.,G,Day-To-Day,Illness Not Specified,2026-11-14,2026-11-13
 BKN,Nolan Traore,G,Day-To-Day,Right Calf Soreness,2026-11-14,2026-11-13
@@ -10,9 +11,10 @@ CHA,Brandon Miller,F,Day-To-Day,Right Groin Soreness,2026-11-15,2026-11-13
 CHA,Dennis Schroder,G,Out,Left Hamstring Strain,2026-11-25,2026-11-08
 CHA,Kon Knueppel,G,Out,Left Hamstring Strain,2026-12-12,2026-11-08
 CHI,Caleb Wilson,F,Out,Right Hand,2026-12-13,2026-11-12
-CHI,Dailyn Swain,G,Day-To-Day,Right Back,2026-11-13,2026-11-12
-CHI,Tobe Awaka,F,Out,Back,2026-11-14,2026-11-12
-CLE,Evan Mobley,C,Out,Toe,2026-11-14,2026-11-12
+CHI,Dailyn Swain,G,Day-To-Day,Right Back,2026-11-14,2026-11-14
+CHI,Jalen Smith,F,Day-To-Day,Left Hand,2026-11-14,2026-11-14
+CHI,Tobe Awaka,F,Day-To-Day,Back,2026-11-14,2026-11-14
+CLE,Evan Mobley,C,Day-To-Day,Toe,2026-11-14,2026-11-14
 CLE,Nae'Qwan Tomlin,F,Out,Back,2026-11-16,2026-10-20
 CLE,Sam Merrill,G,Out,Right Elbow,2026-11-16,2026-11-10
 DAL,Dereck Lively II,C,Out,Right Foot Surgery,2026-11-18,2026-11-11
@@ -25,7 +27,6 @@ DET,Isaiah Joe,G,Out,Right Hip Bruise,2026-11-17,2026-11-09
 DET,Jalen Duren,C,Out,Right Hamstring Strain,2026-11-24,2026-11-08
 DET,Ugonna Onyenso,C,Day-To-Day,Left Foot,2026-11-14,2026-11-11
 GS,Brandon Williams,G,Out,Left Hamstring Not Specified,2026-11-22,2026-11-10
-GS,Charles Bassey,C,Day-To-Day,Left Toe Soreness,2026-11-13,2026-11-12
 GS,Jimmy Butler III,F,Out,Right Knee Surgery,2027-01-02,2026-10-16
 GS,Kristaps Porzingis,C,Out,Illness,2027-01-02,2026-11-06
 GS,Moses Moody,G,Out,Left Knee Surgery,2026-12-01,2026-10-16
@@ -33,6 +34,7 @@ GS,Stephen Curry,G,Out,Right Abdomen,2026-12-12,2026-11-12
 HOU,Clint Capela,C,Out,Right Ankle Sprain,2026-11-15,2026-11-09
 HOU,Marcus Smart,G,Suspension,Suspension,2026-11-18,2026-11-12
 HOU,Steven Adams,C,Out,Right Calf Strain,2026-11-15,2026-11-09
+IND,Aaron Nesmith,G,Day-To-Day,Hand,2026-11-15,2026-11-14
 IND,Ben Sheppard,G,Out,Left Knee,2027-01-02,2026-10-28
 IND,Johnny Furphy,G,Out,Right Knee Surgery,2027-01-02,2026-10-30
 IND,Tyrese Haliburton,G,Out,Left Hamstring Strain,2026-11-22,2026-11-11
@@ -44,20 +46,20 @@ LAL,Austin Reaves,G,Day-To-Day,Left Heel,2026-11-15,2026-11-13
 LAL,Collin Sexton,G,Day-To-Day,Head,2026-11-15,2026-11-12
 LAL,Luka Doncic,G,Day-To-Day,Right Ankle,2026-11-15,2026-11-13
 LAL,Quentin Grimes,G,Day-To-Day,Finger,2026-11-15,2026-11-13
-MEM,Quinten Post,C,Out,Concussion,2026-11-14,2026-11-12
+MEM,Quinten Post,C,Day-To-Day,Concussion,2026-11-14,2026-11-14
 MEM,Richie Saunders,G,Out,Right Knee Surgery,2026-12-01,2026-11-07
 MEM,Scotty Pippen Jr.,G,Out,Back Soreness,2026-11-21,2026-11-10
-MEM,Zach Edey,C,Out,Left Ankle,2026-11-14,2026-11-12
-MIA,Klay Thompson,G,Out,Left Ankle Soreness,2026-11-14,2026-11-13
-MIA,Pelle Larsson,G,Out,Illness,2026-11-14,2026-11-13
+MEM,Zach Edey,C,Day-To-Day,Left Ankle,2026-11-14,2026-11-14
+MIA,Klay Thompson,G,Day-To-Day,Left Ankle Soreness,2026-11-14,2026-11-14
+MIA,Pelle Larsson,G,Day-To-Day,Illness,2026-11-14,2026-11-14
 MIN,Anthony Edwards,G,Out,Right Knee Surgery,2026-12-21,2026-10-29
 MIN,Donte DiVincenzo,G,Out,Right Achilles Surgery,2027-04-02,2026-10-05
-NO,Bryce McGowens,G,Out,Left Elbow Infection,2026-11-14,2026-11-13
+NO,Bryce McGowens,G,Day-To-Day,Left Elbow Infection,2026-11-14,2026-11-14
 NO,Dejounte Murray,G,Out,Ankle,2026-11-20,2026-11-13
 NO,Trendon Watford,F,Out,Right Ankle Sprain,2026-11-14,2026-11-12
 NO,Trey Murphy III,F,Out,Knee Tendinitis,2026-11-14,2026-11-13
 NO,Yves Missi,C,Out,Left Knee Bruise,2026-11-14,2026-11-13
-OKC,Ajay Mitchell,G,Day-To-Day,Left Ankle Sprain,2026-11-13,2026-11-13
+OKC,Ajay Mitchell,G,Day-To-Day,Left Ankle Sprain,2026-11-15,2026-11-14
 OKC,Cason Wallace,G,Out,Left Shoulder Surgery,2027-03-02,2026-10-31
 OKC,Chet Holmgren,C,Out,Right Knee,2027-01-02,2026-10-31
 OKC,Jalen Williams,G,Out,Left Leg Fracture,2027-03-02,2026-10-28
@@ -73,23 +75,22 @@ PHI,Dominick Barlow,F,Out,Back Fracture,2026-11-18,2026-11-12
 PHI,LeBron James,F,Day-To-Day,Back,2026-11-15,2026-11-13
 PHX,Drew Timme,F,Day-To-Day,Right Hand,2026-11-15,2026-11-13
 PHX,Mark Williams,C,Out,Left Shoulder Surgery,2027-02-03,2026-09-11
-POR,Chris Youngblood,G,Out,Right Foot Bruise,2026-11-16,2026-11-13
+POR,Chris Youngblood,G,Day-To-Day,Right Foot Bruise,2026-11-16,2026-11-14
 POR,Ja Morant,G,Out,Left Hamstring Not Specified,2026-12-01,2026-11-08
 POR,Shaedon Sharpe,G,Out,Right Knee Surgery,2027-03-02,2026-08-24
 POR,Vit Krejci,G,Out,Left Ankle,2027-01-12,2026-11-11
-SA,De'Aaron Fox,G,Day-To-Day,Left Hip Soreness,2026-11-13,2026-11-12
-SA,Devin Vassell,G,Day-To-Day,Left Groin,2026-11-13,2026-11-12
 SA,Jayden Quaintance,F,Out,Right Knee Surgery,2026-12-03,2026-10-05
 SA,Tobias Harris,F,Out,Left Calf Strain,2026-11-19,2026-11-10
 SAC,Ben Simmons,G,Out,Right Achilles Surgery,2027-10-01,2026-10-21
 SAC,Maxime Raynaud,C,Out,Right Knee Dislocated,2026-11-15,2026-11-10
-SAC,Precious Achiuwa,F,Out,Left Ankle Soreness,2026-11-15,2026-11-13
+SAC,Precious Achiuwa,F,Day-To-Day,Left Ankle Soreness,2026-11-15,2026-11-14
 TOR,Kawhi Leonard,F,Out,Left Knee Inflammation,2026-11-23,2026-11-11
 TOR,Kevin McCullar Jr.,G,Day-To-Day,Illness,2026-11-14,2026-11-13
 TOR,Nate Bittle,C,Out,Right Foot Fracture,2026-11-15,2026-11-08
 TOR,Scottie Barnes,F,Out,Left Groin Soreness,2026-11-15,2026-11-12
 TOR,Trayce Jackson-Davis,F,Day-To-Day,Illness,2026-11-15,2026-11-13
 UTAH,Jaren Jackson Jr.,F,Out,Right Knee Not Specified,2026-12-14,2026-10-27
+UTAH,Jaxson Hayes,C,Day-To-Day,Left Knee,2026-11-15,2026-11-14
 UTAH,Jusuf Nurkic,C,Out,Right Foot Strain,2026-11-20,2026-11-06
 UTAH,Lauri Markkanen,F,Out,Right Hand Fracture,2027-01-04,2026-11-11
 UTAH,Trey Alexander,G,Out,Right Ankle Sprain,2026-11-16,2026-11-12
